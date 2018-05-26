@@ -53,7 +53,8 @@ def main():
                            "Just Go On the Internet and Tell Lies?",
                            "is a phony", "big fat phony", "are a liar",
                            "is a liar", "because it didn't happen", 
-                           "they are lying", "he is lying", "she is lying")
+                           "they are lying", "he is lying", "she is lying",
+                           "/r/thatHappened")
 
     # Neverending loop to run bot continuously
     while (True):
